@@ -71,13 +71,13 @@ The system is built with a React.js frontend for an interactive learning interfa
 ![Study Modules](screenshots/study-modules.jpeg)
 
 **Alphabets Module**
-![Alphabets Module](screenshots/study-modules.jpeg)
+![Alphabets Module](screenshots/alphabets-v2.jpeg)
 
 **Live Gesture Practice**
-![Live Gesture Practice](screenshots/dashboard.jpeg)
+![Live Gesture Practice](screenshots/live-practice-v2.jpeg)
 
 **Progress Tracking**
-![Progress Tracking](screenshots/login.jpeg)
+![Progress Tracking](screenshots/progress-v2.jpeg)
 
 ---
 
