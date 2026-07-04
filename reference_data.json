@@ -1,0 +1,108 @@
+{
+  "alphabets": {
+    "A": {
+      "instruction": "Close your fingers into a fist and keep your thumb resting on the side of your index finger.",
+      "image": "assets/A.png"
+    },
+    "B": {
+      "instruction": "Keep all four fingers straight and together, and fold your thumb across your palm.",
+      "image": "assets/B.png"
+    },
+    "C": {
+      "instruction": "Curve your fingers and thumb to form a shape like the letter C.",
+      "image": "assets/C.png"
+    },
+    "D": {
+      "instruction": "Touch your thumb and middle, ring, and little fingers together while keeping your index finger straight up.",
+      "image": "assets/D.png"
+    },
+    "E": {
+      "instruction": "Bend all fingers inward toward the palm and keep your thumb close to the fingers.",
+      "image": "assets/E.png"
+    },
+    "F": {
+      "instruction": "Touch the tip of your thumb and index finger together, and keep the other three fingers straight.",
+      "image": "assets/F.png"
+    },
+    "G": {
+      "instruction": "Point your index finger straight to the side and keep your thumb extended parallel to it.",
+      "image": "assets/G.png"
+    },
+    "H": {
+      "instruction": "Extend your index and middle fingers together to the side, while folding the other fingers inward.",
+      "image": "assets/H.png"
+    },
+    "I": {
+      "instruction": "Make a fist and keep your little finger extended upward.",
+      "image": "assets/I.png"
+    },
+    "J": {
+      "instruction": "Start with the little finger extended and trace a J shape in the air.",
+      "image": "assets/J.png"
+    },
+    "K": {
+      "instruction": "Extend your index and middle fingers upward in a V shape, and place your thumb between them.",
+      "image": "assets/K.png"
+    },
+    "L": {
+      "instruction": "Extend your thumb and index finger to form an L shape, keeping other fingers folded.",
+      "image": "assets/L.png"
+    },
+    "M": {
+      "instruction": "Fold your thumb under your index, middle, and ring fingers, with all fingers closed over it.",
+      "image": "assets/M.png"
+    },
+    "N": {
+      "instruction": "Fold your thumb under your index and middle fingers, with the other fingers closed.",
+      "image": "assets/N.png"
+    },
+    "O": {
+      "instruction": "Curve all fingers and thumb together to form a round O shape.",
+      "image": "assets/O.png"
+    },
+    "P": {
+      "instruction": "Extend your index and middle fingers downward with thumb between them, similar to K but tilted downward.",
+      "image": "assets/P.png"
+    },
+    "Q": {
+      "instruction": "Point your index finger and thumb downward together while the other fingers remain folded.",
+      "image": "assets/Q.png"
+    },
+    "R": {
+      "instruction": "Cross your index and middle fingers while keeping the other fingers folded.",
+      "image": "assets/R.png"
+    },
+    "S": {
+      "instruction": "Make a tight fist with your thumb wrapped across the front of your fingers.",
+      "image": "assets/S.png"
+    },
+    "T": {
+      "instruction": "Make a fist and tuck your thumb between your index finger and middle finger.",
+      "image": "assets/T.png"
+    },
+    "U": {
+      "instruction": "Extend your index and middle fingers straight upward together, keeping the other fingers folded.",
+      "image": "assets/U.png"
+    },
+    "V": {
+      "instruction": "Extend your index and middle fingers upward in a V shape, with other fingers folded.",
+      "image": "assets/V.png"
+    },
+    "W": {
+      "instruction": "Extend your index, middle, and ring fingers upward, keeping your thumb and little finger folded.",
+      "image": "assets/W.png"
+    },
+    "X": {
+      "instruction": "Curve your index finger into a hook shape while keeping the other fingers folded.",
+      "image": "assets/X.png"
+    },
+    "Y": {
+      "instruction": "Extend your thumb and little finger outward while folding the other fingers inward.",
+      "image": "assets/Y.png"
+    },
+    "Z": {
+      "instruction": "Extend your index finger and draw the shape of Z in the air.",
+      "image": "assets/Z.png"
+    }
+  }
+}
